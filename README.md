@@ -20,7 +20,7 @@
 
 ---
 
-## 👨🏽‍💻 Midias Sociais
+## 👨🏽‍💻 Redes Sociais
 
 <p align="left">
   <a href="#" alt="Linkedin">
