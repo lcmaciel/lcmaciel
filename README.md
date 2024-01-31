@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, meu nome é Lucas Maciel, entusiasta de tecnologia!<br><br>
-  Atuo nas frentes de T.I á mais de 5 anos, hoje sou Analista de Infraestrutura e Monitoramento, mas sou formado em desenvolvimento de sistemas.<br>
+  Atuo nas frentes de T.I á mais de 8 anos, hoje sou Analista de Infraestrutura e Monitoramento, mas sou formado em desenvolvimento de sistemas.<br>
   Aqui estou, construindo meu conhecimento em programação e me preparando para o proximo passo...
 </p>
 
